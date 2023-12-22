@@ -5,7 +5,7 @@ int a=3;
 cout<< a <<endl;
 char b='a';
 cout<< b <<endl;
-float c=4.5;
+float c=4.8;
 cout<< c <<endl;
 bool flag = false;
 cout<< flag<<endl;
