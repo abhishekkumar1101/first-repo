@@ -7,7 +7,7 @@ char b='a';
 cout<< b <<endl;
 float c=4.5;
 cout<< c <<endl;
-bool flag = true;
+bool flag = false;
 cout<< flag<<endl;
 int size =sizeof(b);
 cout<< "the size of integer is :"<< size <<endl;
